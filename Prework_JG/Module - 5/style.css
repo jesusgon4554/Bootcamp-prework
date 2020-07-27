@@ -1,0 +1,46 @@
+#red{
+    color:red;
+}
+#blue{
+    color:blue;
+}
+#green{
+    color:green;
+}
+
+#big{
+    font-size: 70px;
+}
+#small{
+    font-size: 10px;
+}
+
+#center{
+    text-align: center;
+}
+
+#bold{
+    font-weight: bold;
+}
+
+#font{
+    font-style: oblique;
+}
+
+.mix{
+    font-size: 60px;
+    color:orange;
+    font-weight: bold;
+}
+
+.main{
+    color:silver;
+    font-size: 30px;
+    font-style: andale mono;
+}
+
+#styledImage{
+    border:blue;
+    border-style: solid;
+    border-width: 20px;
+}
